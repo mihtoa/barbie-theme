@@ -28,7 +28,7 @@
       {
         "label": "Barbie Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Barbie Theme-color-theme.json"
+        "path": "./themes/barbie-theme-color-theme.json"
       }
     ]
   }
