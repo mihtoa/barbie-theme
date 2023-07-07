@@ -1,0 +1,22 @@
+{
+  "name": "barbie-theme",
+  "displayName": "barbie-theme",
+  "description": "Barbie Theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/barbie-theme-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barbie Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Barbie Theme-color-theme.json"
+      }
+    ]
+  }
+}
