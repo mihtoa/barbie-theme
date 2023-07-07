@@ -1,6 +1,6 @@
 {
   "name": "barbie-theme",
-  "displayName": "barbie-theme",
+  "displayName": "Barbie Theme",
   "description": "Barbie Theme for Visual Studio Code.",
   "version": "0.0.1",
   "publisher": "mihtoa",
@@ -9,6 +9,14 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark them",
+    "colorful theme",
+    "colors",
+    "barbie",
+    "doll",
+    "pink"
   ],
   "icon": "assets/barbie-theme-icon.png",
   "repository": {
