@@ -3,6 +3,7 @@
   "displayName": "barbie-theme",
   "description": "Barbie Theme for Visual Studio Code.",
   "version": "0.0.1",
+  "publisher": "mihtoa",
   "engines": {
     "vscode": "^1.80.0"
   },
